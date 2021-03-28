@@ -2,7 +2,7 @@
 Code to run Arduino based portable portrait painter
 
 Mechanical Build on Instructables.com (coming soon)
-
+Working machine: https://www.youtube.com/watch?v=U5dt6qbI_Uw
 -------------------------------------------------------------------------------  
   
 Compiling in Arduino IDE:  
